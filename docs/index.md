@@ -50,6 +50,7 @@ __Brigham Young University Idaho__, Group Programmer
 - Engaged in a group that programed several voice commands for an Amazon Alexa like voice AI that would enable a user to ask for a book to be read to them from off the web
 - Designed and programmed the voice commands in python while using several online API’s
 - Supervised and motivated our group throughout the competition to meet deadlines, stay coordinated, and stay organized
+
 ## Service
 
 `2017-2019`
