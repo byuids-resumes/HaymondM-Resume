@@ -31,7 +31,7 @@ __Fidelity Investments__, Salt Lake City, UT
 
 - Participated in developing strategies to improve API development life cycle
 - Revamped web application performance by implementing server-side caching
-- Updated the seed data in the database of the web applications that controlled and enabled the varies permissions users needed
+- Updated the seed data in the database of the web applications that controlled and enabled the various permissions users needed
 
 ### CyberForce Cybersecurity Competition
 
@@ -39,7 +39,7 @@ __Fidelity Investments__, Salt Lake City, UT
 __Department of Energy__, Security Analyst
 
 - Lead a team in protecting a network of computers from cyber attacks
-- Set up and configured a website for end users to use while protecting them from cyber threats
+- Set up and configured a website for end-users to use while protecting them from cyber threats
 - Securely configured and patch a Windows 2016 web server for our website to be hosted on
 
 ### Brigham Young University Idaho Hack Week Competition
@@ -47,7 +47,7 @@ __Department of Energy__, Security Analyst
 `March 2021`
 __Brigham Young University Idaho__, Group Programmer
 
-- Engaged in a group that programed several voice commands for an Amazon Alexa like voice AI that would enable a user to ask for a book to be read to them from off the web
+- Engaged in a group that programmed several voice commands for an Amazon Alexa like voice AI that would enable a user to ask for a book to be read to them from off the web
 - Designed and programmed the voice commands in python while using several online API’s
 - Supervised and motivated our group throughout the competition to meet deadlines, stay coordinated, and stay organized
 
